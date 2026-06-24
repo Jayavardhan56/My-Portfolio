@@ -10,6 +10,7 @@ export default function App(){
     <Home />
     <Projects />
     <Skills />
+    <Contact />
     <h1>My Portfolio</h1>
     </>
   );
