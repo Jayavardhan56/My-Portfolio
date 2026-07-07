@@ -7,3 +7,5 @@ Using Responsive Web Design
 TECH STACK:
 
 FRONTEND: React.js
+
+BACKEND: PYTHON
