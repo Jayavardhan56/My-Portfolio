@@ -3,7 +3,7 @@ export default function Home(){
         <>
         <h1> Hello, I am K.JAYAVARDHAN</h1>
         <h3>CSE GRADUATE</h3>
-This is a Test Pahe
+This is a Test Page
         </>
     );
 }
