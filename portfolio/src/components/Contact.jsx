@@ -5,7 +5,6 @@ export default function Contact(){
 //Can we make this as a comment
 //Contact page is under development 
 let's make it professionally 
-i think it's professional
         </>
     )
 }
