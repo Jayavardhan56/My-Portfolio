@@ -5,5 +5,6 @@ export default function Contact(){
         </>
         //WHAT ALL CAN WE ADD IN CONTACTS
         //Can we say confidential information in this section
+        this is
     )
 }
