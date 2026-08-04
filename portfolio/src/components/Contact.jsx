@@ -7,5 +7,6 @@ export default function Contact(){
         //Can we say confidential information in this section
         this is yes
     Github cant ve edited on mobile
+    but can we use and make it acrive
     )
 }
