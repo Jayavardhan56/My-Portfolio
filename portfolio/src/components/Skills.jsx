@@ -11,4 +11,5 @@ export default function Skills(){
         </>
     );
 }Aws Cli 
-Docker Desktop 
+Docker Desktop
+C++
