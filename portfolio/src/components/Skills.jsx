@@ -13,3 +13,4 @@ export default function Skills(){
 }Aws Cli 
 Docker Desktop
 C++
+Python Flask
