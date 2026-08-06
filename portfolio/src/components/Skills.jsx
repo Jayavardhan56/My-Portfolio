@@ -10,4 +10,4 @@ export default function Skills(){
         </ul>
         </>
     );
-}
+}Aws Cli 
