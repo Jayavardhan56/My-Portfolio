@@ -11,4 +11,4 @@ export default function Skills(){
         </>
     );
 }Aws Cli 
-Dockweb
+Docker Desktop 
