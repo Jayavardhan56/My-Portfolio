@@ -14,3 +14,4 @@ export default function Skills(){
 Docker Desktop
 C++
 Python Flask
+Data analytics 
