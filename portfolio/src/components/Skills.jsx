@@ -16,3 +16,4 @@ C++
 Python Flask
 Data analytics 
 Machine Learning 
+Text Analytics 
