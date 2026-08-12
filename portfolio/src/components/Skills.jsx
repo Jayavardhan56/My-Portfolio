@@ -10,10 +10,4 @@ export default function Skills(){
         </ul>
         </>
     );
-}Aws Cli 
-Docker Desktop
-C++
-Python Flask
-Data analytics 
-Machine Learning 
-Text Analytics 
+}
