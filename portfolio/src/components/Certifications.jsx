@@ -1,7 +1,8 @@
 export default function Certifications(){
     return(
         <>
-        <h1></h1>
+        <h1>IBM CERTFIED CLOUD ESSENTIALS</h1>
+        <h1>Introduction to Python Harvard</h1>
         </>
     )
 }
