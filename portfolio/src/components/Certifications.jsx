@@ -8,7 +8,7 @@ export default function Certifications(){
             <h1>Oracle Certified Foundations Associate</h1>
             <h1>Linux Essentials</h1>
             <h1>Arcade Trooper</h1>
-            <p>Cyber Security Essentals</p>
+            <p>Cyber Security Essentials</p>
         </>
     )
 }
