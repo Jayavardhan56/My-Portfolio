@@ -9,6 +9,7 @@ export default function Certifications(){
             <h1>Linux Essentials</h1>
             <h1>Arcade Trooper</h1>
             <p>Cyber Security Essentials</p>
+            <p>Power BI</p>
         </>
     )
 }
