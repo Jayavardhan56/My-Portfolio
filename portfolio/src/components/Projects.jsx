@@ -8,7 +8,7 @@ export default function Projects(){
         <h1>ALZDETECT</h1>
         <p>This is a project developed for ALzheimers Patients</p>
         <h1>SettleKnot</h1>
-        <p>This is used for </p>
+        <p>This is used for Splitting Bills</p>
         </>
     )
 }
