@@ -7,6 +7,7 @@ export default function Skills(){
             <li>AWS</li>
             <li>Jenkins</li>
             <li>Docker</li>
+            <li></li>
         </ul>
         </>
     );
