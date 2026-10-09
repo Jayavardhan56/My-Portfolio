@@ -3,6 +3,7 @@ export default function Contact(){
         <>
         <p>jayavardhankonathala@gmail.com</p>
         <p>Jayavardhan56</p>
+            <p></p>
         </>
     )
 }
