@@ -10,6 +10,7 @@ export default function Projects(){
         <h1>SettleKnot</h1>
         <p>This is used for Splitting Bills</p>
         <h1>Sem Smart</h1>
+        <p>A simple Quiz Application </p>
         </>
     )
 }
